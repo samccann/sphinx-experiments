@@ -23,7 +23,7 @@ project = u'Sphinx Experiments'
 copyright = u'2019, samccann'
 author = u'samccann'
 
-VERSION = '0.1'
+VERSION = '0.2'
 # The short X.Y version
 version = VERSION
 # The full version, including alpha/beta/rc tags

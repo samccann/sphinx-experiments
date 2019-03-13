@@ -7,6 +7,7 @@ Welcome to the Sphinx Experiments documentation!
 ================================================
 
 This is my sandbox to experiment and learn how the Sphinx build and readthedocs works.
+This attempts to trigger a warning for an older build.
 
 .. toctree::
    :maxdepth: 2
